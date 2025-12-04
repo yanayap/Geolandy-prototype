@@ -1,0 +1,10 @@
+streamlit
+geopandas
+pandas
+folium
+shapely
+streamlit-folium
+fpdf
+matplotlib
+numpy
+datetime
